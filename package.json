@@ -1,0 +1,27 @@
+{
+  "name": "utimax",
+  "version": "0.0.1",
+  "description": "Utimax Industrial Solutions Pvt. Ltd.",
+  "main": "index.js",
+  "authors": {
+    "name": "Dasarathan Sampath",
+    "email": "dasarathan.sampath@gmail.com"
+  },
+  "repository": "utimax",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  },
+  "dependencies": {
+    "@vuepress/plugin-google-analytics": "^1.8.2",
+    "firebase": "^9.2.0",
+    "vuepress-plugin-autometa": "^0.1.13",
+    "vuepress-plugin-clean-urls": "^1.1.2",
+    "vuepress-plugin-feed": "^0.1.9",
+    "vuepress-plugin-sitemap": "^2.3.1"
+  }
+}
