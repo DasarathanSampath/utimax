@@ -8,7 +8,7 @@ const autometa_options = {
 };
 
 module.exports = {
-  title: 'UTImax',
+  title: 'UTIMAX',
   description: description,
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
@@ -25,7 +25,8 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
-    logo:'/favicon.ico',
+    logo:'/favicon.svg',
+    search: false,
     nav: [
       {
         text: 'About',
@@ -37,14 +38,15 @@ module.exports = {
       },
       {
         text: 'Services',
-        items: [
+        link: '/services/'
+        /* items: [
           {text: 'Electrical Safety Audit', link: '/services/electrical-safety-audit'},
           {text: 'Equipment Safety & Integrity', link: '/services/equipment-safety-and-integrity-assessment'},
           {text: 'Fire Safety Audit', link: '/services/fire-safety-audit'},
           {text: 'Management System Consultancy', link: '/services/management-system-consultancy'},
           {text: 'Process Safety Audit', link: '/services/process-safety-audit'},
           {text: 'Resource Efficiency & Environmental Sustainability', link: '/services/resource-efficiency-and-environmental-sustainability-audit'}
-        ]
+        ] */
       },
       {
         text: 'Key Customers',

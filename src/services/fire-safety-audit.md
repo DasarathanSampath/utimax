@@ -6,6 +6,8 @@ id: 'fire-safety-audit'
 desc: Fire Safety
 ---
 
+<img src="/services/fire-safety.jpg" style="border-radius: 0.5rem;"/>
+
 # Fire Safety:
 
 - Fire Safety Audit
@@ -14,4 +16,4 @@ desc: Fire Safety
 
 - Flammable and Combustible liquids Risk Assessment
 
-- Emergency Response Planning Assessmen
+- Emergency Response Planning Assessment

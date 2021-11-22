@@ -6,6 +6,8 @@ id: 'resource-efficiency-and-environmental-sustainability-audit'
 desc: Resource efficiency & Environmental Sustainability
 ---
 
+<img src="/services/environment.jpg" style="border-radius: 0.5rem;"/>
+
 # Resource efficiency & Environmental Sustainability:
 
 - Energy Audit

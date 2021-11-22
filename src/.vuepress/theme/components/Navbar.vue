@@ -12,12 +12,15 @@
         :src="$withBase($site.themeConfig.logo)"
         :alt="$siteTitle"
       >
-      <span
+      <!-- <span
         v-if="$siteTitle"
+        style="color: white; font-family: 'Kameron', serif; display: flex;"
         ref="siteName"
         class="site-name"
         :class="{ 'can-hide': $site.themeConfig.logo }"
-      >{{ $siteTitle }}</span>
+      >
+      </span> 
+      -->   
     </RouterLink>
 
     <div
@@ -111,10 +114,11 @@ $navbar-horizontal-padding = 1.5rem
     font-weight 600
     color $textColor
     position relative
+    display flex
   .links
     padding-left 1.5rem
     box-sizing border-box
-    background-color white
+    background-color #3d3d3d!important
     white-space nowrap
     font-size 0.9rem
     position absolute

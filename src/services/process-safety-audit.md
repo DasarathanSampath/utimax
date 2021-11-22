@@ -6,6 +6,8 @@ id: 'process-safety-audit'
 desc: Process Safety
 ---
 
+<img src="/services/process.jpg" style="border-radius: 0.5rem;"/>
+
 # Process Safety:
 
 - Hot Work Risk Assessment

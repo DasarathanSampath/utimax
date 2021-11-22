@@ -6,6 +6,8 @@ id: 'electrical-safety-audit'
 desc: Electrical Safety
 ---
 
+<img src="/services/electrical-safety.jpg" style="border-radius: 0.5rem;"/>
+
 # Electrical Safety:
 
 - Implementation of Electrical Safety in the Workplace (NFPA 70E)

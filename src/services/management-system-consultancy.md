@@ -6,6 +6,8 @@ id: 'management-system-consultancy'
 desc: Management System Consultancy
 ---
 
+<img src="/services/management.jpg" style="border-radius: 0.5rem;"/>
+
 # Management System Consultancy:
 
 - ISO 14001 Management System Implementation
